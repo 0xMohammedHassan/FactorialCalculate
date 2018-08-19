@@ -1,0 +1,5 @@
+c:\users\hp\documents\visual studio 2015\Projects\FacNew\FacNew\bin\Debug\FacNew.exe
+c:\users\hp\documents\visual studio 2015\Projects\FacNew\FacNew\bin\Debug\FacNew.pdb
+c:\users\hp\documents\visual studio 2015\Projects\FacNew\FacNew\obj\Debug\FacNew.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\FacNew\FacNew\obj\Debug\FacNew.exe
+c:\users\hp\documents\visual studio 2015\Projects\FacNew\FacNew\obj\Debug\FacNew.pdb
